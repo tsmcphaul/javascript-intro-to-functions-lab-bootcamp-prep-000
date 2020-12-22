@@ -19,14 +19,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-console.log("hello")
   return string.toLowerCase();
-console.log("HELLO")
-  return string.toUpperCase();
-  
-  
-
-  
   
 }
  
