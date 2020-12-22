@@ -19,13 +19,13 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(){
-  var lowercase = "hello";
+  var sayHiToGrandma = "hello";
   return "I can\'t hear you!";}
   {
-  var uppercase = "HELLO";
+  var sayHiToGrandma = "HELLO";
   return "YES INDEED!";}
   {
-  var mixedCase = "I love you, Grandma.";
+  var sayHiToGrandma = "I love you, Grandma.";
   return "I love you, too.";
   
 }
