@@ -21,10 +21,10 @@ function logWhisper(string) {
 function sayHiToGrandma(){
   var sayHiToGrandma = "hello";
   return "I can\'t hear you!";}
-  {
+function sayHiToGrandma(){
   var sayHiToGrandma = "HELLO";
   return "YES INDEED!";}
-  {
+function sayHiToGrandma(){
   var sayHiToGrandma = "I love you, Grandma.";
   return "I love you, too.";
   
