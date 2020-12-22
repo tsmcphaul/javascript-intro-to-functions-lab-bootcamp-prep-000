@@ -20,6 +20,7 @@ function logWhisper(string) {
 
 function sayHiToGrandma(){
   var sayHiToGrandma = "hello";
-return "I can\'t hear you!";
- 
+  return "I can\'t hear you!";
+ sayHiToGrandma = "HELLO";
+ return "YES INDEED!";
 }
