@@ -25,7 +25,8 @@ function sayHiToGrandma(string) {
  function sayHiToGrandma (string) {
   var lowerCase = "I can't hear you!";
   var upperCase = "YES INDEED!";
-  var loveYou = "I love you, too.";}
+  var loveYou = "I love you, too.";
+
 
 
   }
