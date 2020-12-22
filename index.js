@@ -28,7 +28,8 @@ function sayHiToGrandma(string) {
   var loveYou = "I love you, too.";
 
 if (string.toLowerCase(string) === string){
-  return lowerCase
+  return lowerCase;
+  
 }
 
   }
