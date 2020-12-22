@@ -31,5 +31,8 @@ if (string.toLowerCase(string) === string){
   return lowerCase;
   
 }
+if (string.toUpperCase(string) === string){
+  return upperCase;  
+}
 
   }
